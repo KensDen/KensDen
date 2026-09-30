@@ -10,14 +10,14 @@
 ken@hello-future
 --------------------------------
 OS:        Human (Northern Virginia build, South Georgia kernel)
-Shell:     bash, plus a soldering iron
-Role:      Cybersecurity professional
-Prior:     U.S. Army, retired Major, 2024
+Shell:     Bash, Plus a Soldering Iron
+Role:      Cybersecurity Professional
+Prior:     Veteran - U.S. Army, Major (Ret.)
 Title:     Praetorian Pannapictagraphist
-Packages:  comic books, floppy disks, dad jokes
-Ethos:     Trust, but verify.
-Motto:     Builders over browsers.
-Uptime:    dad mode, 24/7
+Packages:  Comic Books, Floppy Disks, Dad Jokes
+Ethos:     Zero Trust; Verify, Never Trust
+Motto:     Builders Not Browsers
+Uptime:    Dad Mode, 24/7
 ```
 
 Building a secure future for the world from Northern Virginia.
