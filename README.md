@@ -30,6 +30,14 @@ dispatches/    maker-bench/    collectors-item/
 **[Enter the den](https://kensden.github.io)** for essays, projects, and one very violet action figure.
 
 ```text
+$ ls ~/den/projects/
+lensatic/            # zero trust compass, on the web and iPhone
+dark-constellation/  # space and drone cyber strategy game
+```
+
+[Lensatic (web)](https://kensden.github.io/lensatic/) · [Lensatic Cyber on the App Store](https://apps.apple.com/app/lensatic-cyber/id6816759617) · [Dark Constellation](https://kensden.github.io/dark-constellation/)
+
+```text
 $ history | tail -3
   501  cat ~/.ethos
   502  make future
